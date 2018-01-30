@@ -12,9 +12,3 @@ Breakout with BMP280 Digital Absolute Barometric Pressure Sensor from Bosch Sens
 
 ## Shop
 * [BMP280-Breakout](http://www.watterott.com/en/BMP280-Breakout)
-
-
-## Hardware and Software
-* [Schematics + Layout](https://github.com/watterott/BMP280-Breakout/tree/master/hardware)
-* [Bosch Sensortec BMP280 driver](https://github.com/BoschSensortec/BMP280_driver)
-* Arduino Library and Examples: [BMP280-Arduino-Library](https://github.com/mahfuz195/BMP280-Arduino-Library), [Adafruit_BMP280_Library](https://github.com/adafruit/Adafruit_BMP280_Library)
